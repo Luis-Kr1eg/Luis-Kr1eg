@@ -6,4 +6,4 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USUARIO&theme=radical)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-Kr1eg&layout=compact&theme=radical)
